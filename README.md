@@ -44,7 +44,6 @@ cd "sandesha/server"
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver 7890
-<# By now your Backend server will be running at port 7890 #>
 ```
 
 Go to the project client directory
